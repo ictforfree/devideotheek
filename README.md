@@ -32,7 +32,7 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 - [TVzion](https://www.reddit.com/r/TVZionApp)
 - [Cinema HD](https://www.reddit.com/r/TVZionApp)
 
-#Apps voor Windows/Linux/Mac OS
+# Apps voor Windows/Linux/Mac OS
 > Streaming apps voor PC's
 - [Leonflix](https://leonflix.net)
 
