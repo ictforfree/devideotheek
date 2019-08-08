@@ -38,6 +38,9 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 - [Lookmovie](https://lookmovie.ag)
 - [MoviesMax](https://moviesmax.net)
 - [Cinebloom](https://cinebloom.org)
+- [Series9](https://series9.to) 
+- [Flixtor](https://flixtor.life)
+- [Raindierland](https://rainierland.is/) 
 
 # Chromecast
 Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast. 
