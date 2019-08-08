@@ -6,7 +6,7 @@
 - [Advertenties](#advertenties)
 - [Streaming apps](#Apps)
 - [Chromecast addon app](#chromecastaddonapp)
-- [Broken links?](#broken)
+- [Niet werkende links?](#broken)
 
 # Inleiding
 Deze lijst is een verzameling van media streaming bronnen. 
@@ -41,6 +41,6 @@ Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV
 [MoviesMax](moviesmax.net)
 [Cinebloom](cinebloom.org)
 
-#Broken
+# Broken
 Links naar websites of apps die niet langer meer werken kun je rapporteren via "Issues" op Github of via andere manieren van communicatie. 
 
