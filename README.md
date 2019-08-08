@@ -30,7 +30,11 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 - [Cotomovies](https://mega.nz/#!ZtY2hCaB!LlCfpFLiOIBdCTkyhHFONFo_66MkI3-RjNnr_62Lt3c)
 - [FlixHD](https://mega.nz/#!g0ZSgQQA!fxftzjCR6l-_l3AAe4Bc0IynDvJY64I8XWMpjDc2VIA)
 - [TVzion](https://www.reddit.com/r/TVZionApp)
-- [Cinema HD](https://www.reddit.com/r/TVZionApp) 
+- [Cinema HD](https://www.reddit.com/r/TVZionApp)
+
+#Apps voor Windows/Linux/Mac OS
+> Streaming apps voor PC's
+- [Leonflix](https://leonflix.net)
 
 # Websites
 - [C1nema](https://c1nema.com)
