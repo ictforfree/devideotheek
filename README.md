@@ -15,16 +15,16 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 
 # Streaming Apps
 - [Cyberflix TV]()
-- [Typhoon TV]()
+- [Typhoon TV](https://mega.nz/#!F9gxySKa!SzXVO1zV5r8mrcPzETPesHtwA8j49bJ6RcVGXX9WwKs)
 - [Bee TV]()
-- [Unlock my TTV]()
+- [Unlock my TTV](https://mega.nz/#!9k50hSbY!cEUwVWlOjehBt_fKFTiI9VvL23F5sKyGpsiIdF3kyZY)
 - [Catmouse]()
-- [Cotomovies]()
-- [FlixHD]()
+-[Cotomovies](https://mega.nz/#!ZtY2hCaB!LlCfpFLiOIBdCTkyhHFONFo_66MkI3-RjNnr_62Lt3c)
+- [FlixHD](https://mega.nz/#!g0ZSgQQA!fxftzjCR6l-_l3AAe4Bc0IynDvJY64I8XWMpjDc2VIA)
 
 # Chromecast addon app
 Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast. 
-- [Localcast]()
+- [Localcast](https://play.google.com/store/apps/details?id=de.stefanpledl.localcast&hl=nl)
 
 # Streaming websites
 
