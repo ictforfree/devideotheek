@@ -1,4 +1,4 @@
-# De videotheek
+# De Videotheek :movie_camera:
 > Een verzamel lijstje van streaming sites, apps en programma's. 
 
 ## Contents 
