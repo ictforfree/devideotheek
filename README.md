@@ -19,7 +19,7 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 - [Bee TV]()
 - [Unlock my TTV](https://mega.nz/#!9k50hSbY!cEUwVWlOjehBt_fKFTiI9VvL23F5sKyGpsiIdF3kyZY)
 - [Catmouse]()
--[Cotomovies](https://mega.nz/#!ZtY2hCaB!LlCfpFLiOIBdCTkyhHFONFo_66MkI3-RjNnr_62Lt3c)
+- [Cotomovies](https://mega.nz/#!ZtY2hCaB!LlCfpFLiOIBdCTkyhHFONFo_66MkI3-RjNnr_62Lt3c)
 - [FlixHD](https://mega.nz/#!g0ZSgQQA!fxftzjCR6l-_l3AAe4Bc0IynDvJY64I8XWMpjDc2VIA)
 
 # Chromecast addon app
