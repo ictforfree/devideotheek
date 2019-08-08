@@ -2,8 +2,8 @@
 > Een verzamel lijstje van streaming sites, apps en programma's. 
 
 ## Contents 
-- [Inleiding](#Inleiding) 
-- [Advertenties] (#Advertenties)
+- [Inleiding](#inleiding) 
+- [Advertenties](#advertenties)
 
 # Inleiding
 Deze lijst is een verzameling van media streaming bronnen. 
