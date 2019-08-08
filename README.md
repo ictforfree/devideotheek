@@ -5,7 +5,8 @@
 - [Inleiding](#inleiding) 
 - [Advertenties](#advertenties)
 - [Streaming apps](#Apps)
-- [Chromecast addon app](#chromecastaddonapp)
+- [Streaming websites](#Websites)
+- [Chromecast addon app](#Chromecast)
 - [Niet werkende links?](#broken)
 
 # Inleiding
@@ -16,9 +17,10 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 
 > Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, dus laptop/pc. Mobiele adblockers bestaan ook in bijvoorbeeld de Brave Browser op Android. 
 
-[Ublock Origin](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo?hl=nl)
-[Privacy Possum](https://addons.mozilla.org/nl/firefox/addon/privacy-possum)
-[Disconnect](https://addons.mozilla.org/nl/firefox/addon/disconnect/?src=search)
+- [Ublock Origin](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo?hl=nl). 
+
+- [Privacy Possum](https://addons.mozilla.org/nl/firefox/addon/privacy-possum)  
+- [Disconnect](https://addons.mozilla.org/nl/firefox/addon/disconnect/?src=search)  
 
 # Apps
 - [Cyberflix TV](https://mega.nz/#!l5IRnSKJ!BYexmD_Mstaju-sPsEu_9dj71xrJ9rG4mo7vEjxspPQ)
@@ -30,16 +32,17 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 - [TVzion](https://www.reddit.com/r/TVZionApp)
 - [Cinema HD](https://www.reddit.com/r/TVZionApp) 
 
-# Chromecast addon app
-Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast. 
-- [Localcast](https://play.google.com/store/apps/details?id=de.stefanpledl.localcast&hl=nl)
-
-# Streaming websites
+# Websites
 [C1nema](c1nema.com)
 [F2movies](f2movies.to)
 [Lookmovie](lookmovie.ag)
 [MoviesMax](moviesmax.net)
 [Cinebloom](cinebloom.org)
+
+# Chromecast
+Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast. 
+- [Localcast](https://play.google.com/store/apps/details?id=de.stefanpledl.localcast&hl=nl)  
+
 
 # Broken
 Links naar websites of apps die niet langer meer werken kun je rapporteren via "Issues" op Github of via andere manieren van communicatie. 
