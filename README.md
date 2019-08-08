@@ -33,11 +33,11 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 - [Cinema HD](https://www.reddit.com/r/TVZionApp) 
 
 # Websites
-[C1nema](c1nema.com)
-[F2movies](f2movies.to)
-[Lookmovie](lookmovie.ag)
-[MoviesMax](moviesmax.net)
-[Cinebloom](cinebloom.org)
+- [C1nema](c1nema.com)
+- [F2movies](f2movies.to)
+- [Lookmovie](lookmovie.ag)
+- [MoviesMax](moviesmax.net)
+- [Cinebloom](cinebloom.org)
 
 # Chromecast
 Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast. 
