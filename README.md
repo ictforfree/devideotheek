@@ -6,6 +6,7 @@
 - [Advertenties](#advertenties)
 - [Streaming apps](#Apps)
 - [Chromecast addon app](#chromecastaddonapp)
+- [Broken links?](#broken)
 
 # Inleiding
 Deze lijst is een verzameling van media streaming bronnen. 
@@ -26,6 +27,8 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 - [Unlock my TTV](https://mega.nz/#!9k50hSbY!cEUwVWlOjehBt_fKFTiI9VvL23F5sKyGpsiIdF3kyZY)
 - [Cotomovies](https://mega.nz/#!ZtY2hCaB!LlCfpFLiOIBdCTkyhHFONFo_66MkI3-RjNnr_62Lt3c)
 - [FlixHD](https://mega.nz/#!g0ZSgQQA!fxftzjCR6l-_l3AAe4Bc0IynDvJY64I8XWMpjDc2VIA)
+- [TVzion](https://www.reddit.com/r/TVZionApp)
+- [Cinema HD](https://www.reddit.com/r/TVZionApp) 
 
 # Chromecast addon app
 Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast. 
@@ -38,4 +41,6 @@ Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV
 [MoviesMax](moviesmax.net)
 [Cinebloom](cinebloom.org)
 
+#Broken
+Links naar websites of apps die niet langer meer werken kun je rapporteren via "Issues" op Github of via andere manieren van communicatie. 
 
