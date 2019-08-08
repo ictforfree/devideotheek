@@ -17,7 +17,7 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 
 > Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, dus laptop/pc. Mobiele adblockers bestaan ook in bijvoorbeeld de Brave Browser op Android. 
 
-- [Ublock Origin](https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo?hl=nl). 
+- [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/). 
 
 - [Privacy Possum](https://addons.mozilla.org/nl/firefox/addon/privacy-possum)  
 - [Disconnect](https://addons.mozilla.org/nl/firefox/addon/disconnect/?src=search)  
