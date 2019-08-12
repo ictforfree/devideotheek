@@ -1,61 +1,68 @@
-# De Videotheek :movie_camera:
-> Een verzamel lijstje van streaming sites, apps en programma's. 
+￼
 
-## Contents 
-- [Inleiding](#inleiding) 
-- [Advertenties](#advertenties)
-- [Streaming apps](#Apps)
-- [Streaming websites](#Websites)
-- [Chromecast addon app](#Chromecast)
-- [Niet werkende links?](#broken)
+De Videotheek 🎥 
 
-# Inleiding
-Deze lijst is een verzameling van media streaming bronnen. 
+Een verzamel lijstje van streaming sites, apps en programma's.
 
-# Advertenties
-Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals Ublock Origin en een tracker blocker zoals Privacy Possum of Disconnect. Anders is de ervaring minder aan te raden in verband met de (pop-up) advertenties. 
+Contents
+• Inleiding
+• Advertenties
+• Streaming apps
+• Streaming websites
+• Chromecast addon app
+• Niet werkende links?
 
-> Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, dus laptop/pc. Mobiele adblockers bestaan ook in bijvoorbeeld de Brave Browser op Android. 
+Inleiding
 
-- [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/). 
+Deze lijst is een verzameling van media streaming bronnen.
 
-- [Privacy Possum](https://addons.mozilla.org/nl/firefox/addon/privacy-possum)  
-- [Disconnect](https://addons.mozilla.org/nl/firefox/addon/disconnect/?src=search)  
+Advertenties
 
-# Apps
-- [Cyberflix TV](https://mega.nz/#!l5IRnSKJ!BYexmD_Mstaju-sPsEu_9dj71xrJ9rG4mo7vEjxspPQ)
-- [Typhoon TV](https://mega.nz/#!F9gxySKa!SzXVO1zV5r8mrcPzETPesHtwA8j49bJ6RcVGXX9WwKs)
-- [Bee TV](https://mega.nz/#!h0RWhIAC!m9ujAUxVwUsiNOcWTJYMp6Ex7KUISWnMFD90J5g_4vo)
-- [Unlock my TTV](https://mega.nz/#!9k50hSbY!cEUwVWlOjehBt_fKFTiI9VvL23F5sKyGpsiIdF3kyZY)
-- [Cotomovies](https://mega.nz/#!ZtY2hCaB!LlCfpFLiOIBdCTkyhHFONFo_66MkI3-RjNnr_62Lt3c)
-- [FlixHD](https://mega.nz/#!g0ZSgQQA!fxftzjCR6l-_l3AAe4Bc0IynDvJY64I8XWMpjDc2VIA)
-- [TVzion](https://www.reddit.com/r/TVZionApp)
-- [Cinema HD](https://www.reddit.com/r/TVZionApp)
+Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals Ublock Origin en een tracker blocker zoals Privacy Possum of Disconnect. Anders is de ervaring minder aan te raden in verband met de (pop-up) advertenties.
 
-# Mediaplayer apps
-- [MX player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad)
-- [VLC player](
-https://play.google.com/store/apps/details?id=org.videolan.vlc) 
+Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, dus laptop/pc. Mobiele adblockers bestaan ook in bijvoorbeeld de Brave Browser op Android.
+• 
+Ublock Origin .
 
-# Apps voor Windows/Linux
-> Streaming apps voor PC's
-- [Leonflix](https://leonflix.net)
+• 
+Privacy Possum
 
-# Websites
-- [C1nema](https://c1nema.com)
-- [F2movies](https://f2movies.to)
-- [Lookmovie](https://lookmovie.ag)
-- [HDM](https://hdm.to)
-- [Cinebloom](https://cinebloom.org)
-- [Series9](https://series9.to) 
-- [Flixtor](https://flixtor.life)
-- [Raindierland](https://rainierland.is/) 
+• 
+Disconnect
 
-# Chromecast
-Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast. 
-- [Localcast](https://play.google.com/store/apps/details?id=de.stefanpledl.localcast&hl=nl)  
+Apps
+• Cyberflix TV
+• Typhoon TV
+• Bee TV
+• Unlock my TTV
+• Cotomovies
+• FlixHD
+• TVzion
+• Cinema HD
 
+Mediaplayer apps
+• MX player
+• VLC player
 
-# Broken
-Links naar websites of apps die niet langer meer werken kun je rapporteren via "Issues" op Github of via andere manieren van communicatie. 
+Apps voor Windows/Linux
 
+Streaming apps voor PC's
+• Leonflix
+
+Websites
+• C1nema
+• F2movies
+• Lookmovie
+• Cinebloom
+• Series9
+• Flixtor
+• Raindierland
+
+Chromecast
+
+Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast.
+• Localcast
+
+Broken
+
+Links naar websites of apps die niet langer meer werken kun je rapporteren via "Issues" op Github of via andere manieren van communicatie.
