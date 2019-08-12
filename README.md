@@ -32,7 +32,9 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 - [TVzion](https://www.reddit.com/r/TVZionApp)
 - [Cinema HD](https://www.reddit.com/r/TVZionApp)
 
-# Mediaplayer apps
+# Mediaspeler apps
+> Mediaspeler apps die je kunt combineren met de bovenstaande streaming apps zoals Typhoon, Cyberflix etc. Dit brengt stabielere streams met meer ondersteuning voor bijvoorbeeld ondertiteling. 
+
 - MX player
 - VLC player
 
@@ -44,6 +46,7 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 - [C1nema](https://c1nema.com)
 - [F2movies](https://f2movies.to)
 - [Lookmovie](https://lookmovie.ag)
+- [HDM](https://hdm.to)
 - [Cinebloom](https://cinebloom.org)
 - [Series9](https://series9.to) 
 - [Flixtor](https://flixtor.life)
