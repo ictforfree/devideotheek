@@ -1,5 +1,3 @@
-￼
-
 De Videotheek 🎥 
 
 Een verzamel lijstje van streaming sites, apps en programma's.
