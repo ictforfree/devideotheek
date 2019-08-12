@@ -40,7 +40,6 @@ Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals
 - [C1nema](https://c1nema.com)
 - [F2movies](https://f2movies.to)
 - [Lookmovie](https://lookmovie.ag)
-- [MoviesMax](https://moviesmax.net)
 - [Cinebloom](https://cinebloom.org)
 - [Series9](https://series9.to) 
 - [Flixtor](https://flixtor.life)
