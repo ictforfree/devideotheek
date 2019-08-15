@@ -44,16 +44,34 @@ Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, du
 # Apps voor Windows/Linux
 > Streaming apps voor PC's
 - [Leonflix](https://leonflix.net)
+- [Stremio](https://www.stremio.com/)
 
 # Websites
+## Quality websites
 - [C1nema](https://c1nema.com)
 - [F2movies](https://f2movies.to)
-- [Lookmovie](https://lookmovie.ag)
-- [HDM](https://hdm.to)
 - [Cinebloom](https://cinebloom.org)
+- [HDM](https://hdm.to)
+- [FlixGo](https://flixgo.net)
+- [AZmovies](https://azm.to)
+- [Lookmovie](https://lookmovie.ag)
+
+> Nieuw op de lijst
+- [HDonline](https://ww.hdonline.eu) 
 - [Series9](https://series9.to) 
 - [Flixtor](https://flixtor.life)
-- [FullMoviesOnYoutube](https://www.reddit.com/r/fullmoviesonyoutube/) 
+- [StreamCR](https://streamcr.com)
+- [iWannaWatch](https://www.iwannawatch.is/films/) 
+
+## Linking sites
+- [Primewire](https://www.primewire.li/) 
+- [WatchSeries](https://www1.swatchseries.to/)
+
+## Overige streaming websites
+- [FootyBites (SoccerStream)](https://footybite.com/reddit-soccer-streams-home/) 
+- [720Stream](http://www.720pstream.me/) 
+- [VIPbox](https://www.vipbox.live/) 
+
 
 # Chromecast
 Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast.
