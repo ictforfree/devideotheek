@@ -6,7 +6,7 @@ Een verzamel lijstje van streaming sites, apps en programma's.
 - [Advertenties](#advertenties)
 - [Streaming apps](#apps)
 - [Streaming websites](#websites)
-- [Chromecast app voor streaming apps](#chromecast)
+- [Chromecast app voor streaming apps](##chromecast)
 - [Niet werkende links?](#broken)
 
 ![alt](https://i.imgur.com/9Ra4bae.jpg)
@@ -36,7 +36,11 @@ Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, du
 - [FlixHD](https://mega.nz/#!g0ZSgQQA!fxftzjCR6l-_l3AAe4Bc0IynDvJY64I8XWMpjDc2VIA)
 - [TVzion](https://www.reddit.com/r/TVZionApp)
 
-# Mediaplayer apps
+## Chromecast
+Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast.
+- [Localcast](https://play.google.com/store/apps/details?id=de.stefanpledl.localcast&hl=nl) 
+
+## Mediaplayer apps
 > Mediaspeler apps die je kunt combineren met streaming apps zoals Typhoon, Cyberflix etc. Deze apps ondersteunen meer mediaformaten en betere ondertiteling dan de ingebouwde mediaspelers van bovenstaande apps. 
 - [MX player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=nl)
 - [VLC player](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=nl) 
@@ -71,11 +75,6 @@ Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, du
 - [FootyBites (SoccerStream)](https://footybite.com/reddit-soccer-streams-home/) 
 - [720Stream](http://www.720pstream.me/) 
 - [VIPbox](https://www.vipbox.live/) 
-
-
-# Chromecast
-Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast.
-- [Localcast](https://play.google.com/store/apps/details?id=de.stefanpledl.localcast&hl=nl) 
 
 # Broken
 Links naar websites of apps die niet langer meer werken kun je rapporteren via "Issues" op Github of via andere manieren van communicatie.
