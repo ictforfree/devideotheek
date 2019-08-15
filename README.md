@@ -6,7 +6,6 @@ Een verzamel lijstje van streaming sites, apps en programma's.
 - [Advertenties](#advertenties)
 - [Streaming apps](#apps)
 - [Streaming websites](#websites)
-- [Chromecast app voor streaming apps](##chromecast)
 - [Niet werkende links?](#broken)
 
 ![alt](https://i.imgur.com/9Ra4bae.jpg)
