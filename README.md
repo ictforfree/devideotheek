@@ -37,7 +37,7 @@ Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, du
 - [TVzion](https://www.reddit.com/r/TVZionApp)
 
 ## Chromecast
-Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast.
+> Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast.
 - [Localcast](https://play.google.com/store/apps/details?id=de.stefanpledl.localcast&hl=nl) 
 
 ## Mediaplayer apps
