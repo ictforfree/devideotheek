@@ -62,6 +62,8 @@ Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, du
 
 > Nieuw op de lijst
 - [HDonline](https://ww.hdonline.eu) 
+- [Filmxy](https://www.filmxy.live/)
+- [Hackimdb](https://hackimdb.com/123movies-free/)
 - [Series9](https://series9.to) 
 - [Flixtor](https://flixtor.life)
 - [StreamCR](https://streamcr.com)
@@ -75,6 +77,7 @@ Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, du
 - [FootyBites (SoccerStream)](https://footybite.com/reddit-soccer-streams-home/) 
 - [720Stream](http://www.720pstream.me/) 
 - [VIPbox](https://www.vipbox.live/) 
+- [Moviefiles](https://moviefiles.org/index.php) > Alleen downloaden - Geen streams
 
 # Broken
 Links naar websites of apps die niet langer meer werken kun je rapporteren via "Issues" op Github of via andere manieren van communicatie.
