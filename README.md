@@ -29,6 +29,7 @@ Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, du
 - [NPO Start](https://play.google.com/store/apps/details?id=nl.uitzendinggemist&hl=nl)
 - [Cyberflix TV](https://mega.nz/#!l5IRnSKJ!BYexmD_Mstaju-sPsEu_9dj71xrJ9rG4mo7vEjxspPQ)
 - [Typhoon TV](https://mega.nz/#!F9gxySKa!SzXVO1zV5r8mrcPzETPesHtwA8j49bJ6RcVGXX9WwKs)
+- [Titanium TV](https://mega.nz/#!sg4SCArL!Lqq5ukzm12aQAz_U3Zt0oa7Tj2TsVwVgFDxQ042ezCI) 
 - [Bee TV](https://mega.nz/#!h0RWhIAC!m9ujAUxVwUsiNOcWTJYMp6Ex7KUISWnMFD90J5g_4vo)
 - [UnlockmyTTV](https://mega.nz/#!9k50hSbY!cEUwVWlOjehBt_fKFTiI9VvL23F5sKyGpsiIdF3kyZY)
 - [UnlockmyTV](https://mega.nz/#!o8AXhSSB!f_nSr-EW2xY8y4BilonGv30hpJywsXWoL1_xkFiv7fs)
