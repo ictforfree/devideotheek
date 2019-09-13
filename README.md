@@ -33,7 +33,6 @@ Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, du
 - [Bee TV](https://mega.nz/#!h0RWhIAC!m9ujAUxVwUsiNOcWTJYMp6Ex7KUISWnMFD90J5g_4vo)
 - [UnlockmyTTV](https://mega.nz/#!9k50hSbY!cEUwVWlOjehBt_fKFTiI9VvL23F5sKyGpsiIdF3kyZY)
 - [UnlockmyTV](https://mega.nz/#!o8AXhSSB!f_nSr-EW2xY8y4BilonGv30hpJywsXWoL1_xkFiv7fs)
-- [Cotomovies](https://mega.nz/#!ZtY2hCaB!LlCfpFLiOIBdCTkyhHFONFo_66MkI3-RjNnr_62Lt3c)
 - [FlixHD](https://mega.nz/#!g0ZSgQQA!fxftzjCR6l-_l3AAe4Bc0IynDvJY64I8XWMpjDc2VIA)
 - [TVzion](https://www.reddit.com/r/TVZionApp)
 
