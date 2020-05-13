@@ -52,22 +52,20 @@ Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, du
 
 # Websites
 ## Quality websites
-- [C1nema](https://c1nema.com)
 - [F2movies](https://f2movies.to)
 - [Cinebloom](https://cinebloom.org)
 - [HDM](https://hdm.to)
 - [FlixGo](https://flixgo.net)
 - [AZmovies](https://azm.to)
 - [Lookmovie](https://lookmovie.ag)
-
-> Nieuw op de lijst
 - [HDonline](https://ww.hdonline.eu) 
-- [Filmxy](https://www.filmxy.live/)
-- [Hackimdb](https://hackimdb.com/123movies-free/)
 - [Series9](https://series9.to) 
 - [Flixtor](https://flixtor.life)
 - [StreamCR](https://streamcr.com)
 - [iWannaWatch](https://www.iwannawatch.is/films/) 
+
+> Nieuw op de lijst
+- [Nites TV](https://nites.is) 
 
 ## Linking sites
 - [Primewire](https://www.primewire.li/) 
