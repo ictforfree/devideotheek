@@ -2,7 +2,7 @@
 Een verzamel lijstje
 
 # Websites
-## Quality
+## Kwaliteit
 - [F2movies](https://f2movies.to)
 - [Cinebloom](https://cinebloom.org)
 - [HDM](https://hdm.to)
@@ -14,10 +14,10 @@ Een verzamel lijstje
 - [Cinehub](https://cinehub.wtf/) 
 - [Cineb](https://cineb.net/) 
 
-## Linking sites
+## Hyperlink
 - [Primewire](https://www.primewire.li/) 
 - [WatchSeries](https://www1.swatchseries.to/)
-## Sport
+## Overig
 - [FootyBites (SoccerStream)](https://footybite.com/reddit-soccer-streams-home/) 
 - [720Stream](http://www.720pstream.me/) 
 - [VIPbox](https://www.vipbox.live/) 
