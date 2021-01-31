@@ -1,23 +1,12 @@
-# De Videotheek 🎥 
-Een verzamel lijstje van streaming sites, apps en programma's.
+# 🎥 
+Een verzamel lijstje
 
 # Contents
-- [Inleiding](#inleiding)
 - [Advertenties](#advertenties)
 - [Streaming apps](#apps)
 - [Streaming websites](#websites)
-- [Niet werkende links?](#broken)
-
-![alt](https://i.imgur.com/9Ra4bae.jpg)
-
-# Inleiding
-
-Deze lijst is een verzameling van media streaming bronnen.
 
 # Advertenties
-
-Het is aanbevolen de websites in deze lijst te bezoeken met een Ad Blocker zoals Ublock Origin en een tracker blocker zoals Privacy Possum of Disconnect. Anders is de ervaring minder aan te raden in verband met de (pop-up) advertenties.
-
 Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, dus laptop/pc. Mobiele adblockers bestaan ook in bijvoorbeeld de [Samsung Internet Browser](https://play.google.com/store/apps/details?id=com.sec.android.app.sbrowser&hl=nl) of de [Opera Browser](https://play.google.com/store/apps/details?id=com.opera.browser&referrer=utm_source%3D%28direct%29_opera_com%26utm_medium%3Ddoc%26utm_campaign%3D%28direct%29_via_opera_com) op Android. 
 
 - [Ublock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/). 
@@ -37,7 +26,6 @@ Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, du
 - [TVzion](https://www.reddit.com/r/TVZionApp)
 
 ## Chromecast
-> Apps waarmee je optioneel kan casten vanaf apps zoals Cyberflix, Typhoon, Bee TV etc. naar een Chromecast.
 - [Localcast](https://play.google.com/store/apps/details?id=de.stefanpledl.localcast&hl=nl) 
 
 ## Mediaplayer apps
@@ -45,33 +33,27 @@ Onderstaande applicaties zijn geschikt voor Firefox en Chrome op een desktop, du
 - [MX player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad&hl=nl)
 - [VLC player](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=nl) 
 
-# Apps voor Windows/Linux
-> Streaming apps voor PC's
+# Windows/Linux
 - [Leonflix](https://leonflix.net)
 - [Stremio](https://www.stremio.com/)
 
 # Websites
-## Quality websites
+## Quality
 - [F2movies](https://f2movies.to)
 - [Cinebloom](https://cinebloom.org)
 - [HDM](https://hdm.to)
-- [FlixGo](https://flixgo.net)
 - [AZmovies](https://azm.to)
 - [Lookmovie](https://lookmovie.ag)
 - [HDonline](https://ww.hdonline.eu) 
 - [Series9](https://series9.to) 
 - [Flixtor](https://flixtor.life)
-- [StreamCR](https://streamcr.com)
-- [iWannaWatch](https://www.iwannawatch.is/films/) 
-
-> Nieuw op de lijst
 - [Nites TV](https://nites.is) 
+- [Cinehub](https://cinehub.wtf/) 
+- [Cineb](https://cineb.net/) 
 
 ## Linking sites
 - [Primewire](https://www.primewire.li/) 
 - [WatchSeries](https://www1.swatchseries.to/)
-
-## Overige streaming websites
 - [FootyBites (SoccerStream)](https://footybite.com/reddit-soccer-streams-home/) 
 - [720Stream](http://www.720pstream.me/) 
 - [VIPbox](https://www.vipbox.live/) 
