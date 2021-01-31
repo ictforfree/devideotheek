@@ -21,3 +21,6 @@ Een verzamel lijstje
 - [FootyBites (SoccerStream)](https://footybite.com/reddit-soccer-streams-home/) 
 - [720Stream](http://www.720pstream.me/) 
 - [VIPbox](https://www.vipbox.live/) 
+- [VIPleague](https://www.vipleague.lc/) 
+- [Buffstreams](https://buffstreams.tv/) 
+
