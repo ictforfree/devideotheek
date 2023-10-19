@@ -2,7 +2,6 @@
 Een verzamel lijstje (geüpdatet)
 
 # Websites
-## Kwaliteit
 - [Watchseries](https://watchseries.mx)
 - [F2movies](https://f2movies.to)
 - [Fmovies2](https://fmoviesz.to/)
@@ -14,7 +13,7 @@ Een verzamel lijstje (geüpdatet)
 - [MovieUniverse](https://movieuniverse.se/)
 - [123-movies](https://123-movies.work/movies-series/)
 
-## Hyperlink
+## Hyperlinks
 - [Primewire](https://www.primewire.li/) 
 
 ## Overig
